@@ -1,1 +1,0 @@
-# solana-simple-shopping
